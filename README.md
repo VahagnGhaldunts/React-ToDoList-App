@@ -1,3 +1,9 @@
+### To Do List App REACT
+
+## A functional and interactive to-do list with React.
+
+One of the best things about React is that it makes it easy to create reusable components that can be used across multiple projects. Using this, I created a Todo component that we can use to display each item on our list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
